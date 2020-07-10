@@ -1,0 +1,218 @@
+commit a2af2caa321166560abf95471d2916b1e1f0dd3f
+Merge: 681329c 0fe44b1
+Author: David Espinosa Ospina <david.espinosa@tcs.com>
+Date:   Mon Jul 6 00:21:53 2020 -0500
+
+    Merge branch 'master' of https://github.com/dalesos92/udemy-heroes
+
+commit 681329ca8de7a2acdf41de72c23c26ee8e9e2937
+Author: David Espinosa Ospina <david.espinosa@tcs.com>
+Date:   Mon Jul 6 00:19:40 2020 -0500
+
+    Removimos el mensaje de github
+
+commit 0fe44b19f2f68e256cb096072d8d4bc679ab4079
+Author: dalesos92 <67847818+dalesos92@users.noreply.github.com>
+Date:   Mon Jul 6 00:17:50 2020 -0500
+
+    Agregando al heroe Atom
+
+commit 3b1f1674c7bab440ca5bac10926a048dd9a58056
+Author: dalesos92 <67847818+dalesos92@users.noreply.github.com>
+Date:   Mon Jul 6 00:10:48 2020 -0500
+
+    Actualizamos el README desde GitHub
+
+commit c3e22b94904fe150822c6daf381cd53d93c473ac
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Fri Jun 23 17:42:48 2017 -0600
+
+    Agregamos a Deadshot
+
+commit 69e85f8631eb97b87a951d965e9add2ef606873e
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Fri Jun 23 17:42:20 2017 -0600
+
+    Actualizaciones al readme
+
+commit 093e6ef85481daae5eef015e0922531ae8246852
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Fri Jun 23 15:44:41 2017 -0600
+
+    Update: Misiones completadas
+
+commit f4523dddd30192faaec4e7640d235abd6e1e645d
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Fri Jun 23 15:44:11 2017 -0600
+
+    Agregamos el archivo de las misiones completadas
+
+commit 158ba9e915b256dc6bbf57a17a3d8ace2a8c737f
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Fri Jun 23 15:47:22 2017 -0600
+
+    Se agrego a la liga: Volcán Negro
+
+commit 300c014e970f2acf51647ffa1b345de6fb49b085
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Fri Jun 23 15:47:03 2017 -0600
+
+    Misiones nuevas agregadas
+
+commit acea380e9890555324d31359f21250ae64c91f1b
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Fri Jun 23 15:42:06 2017 -0600
+
+    Actualización de las misiones
+
+commit 31efae8580ad2faa589ed084f7b2b53a1c2f4fe7
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Tue Jun 20 17:29:43 2017 -0600
+
+    Retomando el trabajo que guarde en el stash
+
+commit 8239e2637317af9dd60a091a6ae13e4c0874220e
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Tue Jun 20 17:28:10 2017 -0600
+
+    Cambios de emergencia en el README
+
+commit 7dd23f170503a0adbb4a2fe2cba815f327841fcb
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Tue Jun 20 16:54:09 2017 -0600
+
+    Agregamos más misiones
+
+commit 5b0c87f491b7d54fa45010e43a2d0861114272af
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Tue Jun 20 16:52:39 2017 -0600
+
+    Modificaciones en el README de emergencia
+
+commit 5440fe506e93dc5a955f38f0ba057df5ac1181a9
+Merge: b936625 52c9666
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Tue Jun 20 10:23:42 2017 -0600
+
+    Resolviendo conflictos
+
+commit b9366251ea5fc33048a556b106db0fb6233131d4
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Tue Jun 20 10:03:26 2017 -0600
+
+    Actualizamos las misiones MASTER
+
+commit 52c966695d0f063a495306862780cfb8fe69ca65
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Tue Jun 20 10:02:42 2017 -0600
+
+    Modificamos las misiones
+
+commit a4a98342f46da49dbf11f7fa5bc4c517114d1181
+Merge: 4c24baa b3e02bc
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Tue Jun 20 09:47:11 2017 -0600
+
+    Merge branch 'rama-villano'
+
+commit 4c24baa3aa78b4bd7d32235f7922f2c48d2b4bdd
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Tue Jun 20 09:46:23 2017 -0600
+
+    Borre a los heroes que no son de DC
+
+commit b3e02bc81fbf84b4f6b51b22eb881b91c0a1a1ca
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Tue Jun 20 09:45:37 2017 -0600
+
+    Agregamos a doomsday
+
+commit ad66a33443a61eecc1895c1f7869feb88209deb4
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Tue Jun 20 08:46:49 2017 -0600
+
+    Agregamos al flash reverso
+
+commit df6ed627c77589d624e2fb0d12ce29e04d137bb7
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Tue Jun 20 08:45:41 2017 -0600
+
+    Agregando villanos
+
+commit 62c8a103793185c4d4f646b595882a88e732a813
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Mon Jun 19 16:40:14 2017 -0600
+
+    Agregando el gitignore
+
+commit ac0d374661d894356d89b79e55d0f0ad3f78da26
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Mon Jun 19 16:22:36 2017 -0600
+
+    Borramos la historia de batman
+
+commit b4c748c4dd3447a9801713c9faa4a1a04d126d62
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Mon Jun 19 16:21:26 2017 -0600
+
+    Cambiamos el nombre de la historia de superman
+
+commit d877f01f0054cf65f9bebdc0344845bdcdbe7806
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Mon Jun 19 15:47:09 2017 -0600
+
+    Borrando archivo salvar mundo
+
+commit c9ee153a1ef370b756b05452d5f8b29a520ef5b5
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Mon Jun 19 15:46:02 2017 -0600
+
+    Renombrando archivo a salvar-mundo
+
+commit fa3cd3a7ecc8859293e3c42f333a145563fec0a0
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Mon Jun 19 15:44:26 2017 -0600
+
+    Creando el archivo destruir el mundo
+
+commit 4e809d4c4503539e55df381192375d01b2a53295
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Mon Jun 19 10:34:22 2017 -0600
+
+    Agregamos a Linterna verde y a Robin
+
+commit 345d7de729e8013b3cc00f53a737d6b0e9d95199
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Mon Jun 19 10:20:51 2017 -0600
+
+    Editamos el readme.md
+
+commit 860c6c28c99abcc67e44671511b04ef7ac787be5
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Mon Jun 19 10:09:24 2017 -0600
+
+    Agregamos las historias de los heroes
+
+commit bc1a1e5ba1f7523c0d900f95bb16ab87297c253e
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Mon Jun 19 10:08:42 2017 -0600
+
+    Agregamos las ciudades
+
+commit 6b8f60d4bb136cfa0563274f340dd2da090b8e25
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Mon Jun 19 10:08:20 2017 -0600
+
+    Agregamos los heroes
+
+commit da24862d49edc92b35e54b53549fa6d3d65ffa7c
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Mon Jun 19 10:07:55 2017 -0600
+
+    Agregamos las misiones
+
+commit 88a423dfb464636aef170f5f4f775ac7f2f26158
+Author: Strider <fernando.herrera85@gmail.com>
+Date:   Mon Jun 19 10:06:57 2017 -0600
+
+    Se agrego el archivo readme
