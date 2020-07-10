@@ -3,7 +3,7 @@ Merge: 681329c 0fe44b1
 Author: David Espinosa Ospina <david.espinosa@tcs.com>
 Date:   Mon Jul 6 00:21:53 2020 -0500
 
-    Merge branch 'master' of https://github.com/dalesos92/udemy-heroes
+    Merge branch 'master' of https://github.com/dalesos92/udemy-heroes .
 
 commit 681329ca8de7a2acdf41de72c23c26ee8e9e2937
 Author: David Espinosa Ospina <david.espinosa@tcs.com>
